@@ -1,0 +1,14 @@
+[user]
+	name = Matthew W Carlis
+	email = matthew.carlis@sjsu.edu
+[push]
+	default = tracking
+[branch]
+	autosetuprebase = always
+[core]
+	editor = vim
+[color]
+	ui = auto
+[log]
+	date = local
+	decorate = short
