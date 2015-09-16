@@ -97,10 +97,11 @@ autocmd FileType make setlocal noexpandtab
 set smarttab
 
 " 1 tab == 8 spaces
-set shiftwidth=8
-set tabstop=8
+set shiftwidth=4
+set tabstop=4
 autocmd FileType python setlocal shiftwidth=4
 autocmd FileType python setlocal tabstop=4
+
 
 " Linebreak on 500 characters
 set lbr
